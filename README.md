@@ -46,7 +46,7 @@ This repository contains multiple Python projects designed to:
 Want to contribute? 🎉 Feel free to fork the repository, create a new branch, and submit a pull request with improvements, bug fixes, or new project ideas!
 
 ## 📧 Contact
-📩 Feel free to reach out via [Your Email] or connect on [LinkedIn/GitHub]. Let's collaborate and build more awesome Python projects together!
+📩 Feel free to reach out via sanidhyasinghchandel31@gmail.com or connect on Sanidhya-s-Chandel. Let's collaborate and build more awesome Python projects together!
 
 ---
 ### 🌟 If you like this repository, don't forget to star ⭐ it!
